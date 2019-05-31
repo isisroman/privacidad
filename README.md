@@ -10,4 +10,4 @@ Aforo Pasajero es una aplicación para uso de la Dirección de Tráfico y Señal
 
 Cualquier usuario puede ingresar y probar la app con privilegios restringido, con las credenciales siguientes: usuario "demo", contraseña "demo", previo al escaneo del codigo QR que contiene la información necesaria para poder acceder y hacer uso de AforoPasajero.
 
-Cualquier sugerencia a la Política de Privacidad diríjala al email del desarrollador.
+Cualquier sugerencia a la Política de Privacidad dirigirse al email del desarrollador.
